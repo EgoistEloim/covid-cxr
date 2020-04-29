@@ -1,4 +1,4 @@
-1. Report file is named "AI-Project-5.pdf".
+1. Report file is named "SHAP Report.pdf".
 2. Results o LIME in Step 1 is in Report.
 3. Summary and explaination of SHAP is in Report.
 4. Implementation of SHAP in also in Report.
